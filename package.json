@@ -1,0 +1,26 @@
+{
+  "name": "umi-base-pnp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umi-hub/umi-base-pnp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umi-hub/umi-base-pnp/issues"
+  },
+  "homepage": "https://github.com/umi-hub/umi-base-pnp#readme",
+  "dependencies": {
+    "umi": "3.4.14"
+  },
+  "devDependencies": {
+    "pnp-webpack-plugin": "^1.6.4"
+  }
+}
