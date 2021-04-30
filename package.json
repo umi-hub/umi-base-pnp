@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/umi-hub/umi-base-pnp#readme",
   "dependencies": {
+    "@umijs/preset-react": "^1.8.6",
     "umi": "3.4.14"
   },
   "devDependencies": {
